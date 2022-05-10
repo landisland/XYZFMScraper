@@ -1,6 +1,6 @@
 ### 小宇宙FM获取播客节目数据
 
-非常简单的一个 python 程序，只需要修改代码文件中第 8 行 `PID` 即可，请看下图示例。
+非常简单的一个 python 程序 (`get_data.py`)，只需要修改代码文件中第 8 行 `PID` 即可，请看下图示例。
 
 ![example_pid](example_pid.png)
 
@@ -13,6 +13,7 @@
 * `favoriteCount`：标记喜欢
 * `pubDate`：上传时间
 
+![example_csv](example_csv.png)
 
 **免责声明：**
 
